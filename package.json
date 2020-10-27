@@ -1,0 +1,28 @@
+{
+  "name": "forkify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/camilla-design/forky-udemy.git"
+  },
+  "author": "Camilla Reppen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/camilla-design/forky-udemy/issues"
+  },
+  "homepage": "https://github.com/camilla-design/forky-udemy#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.27.0"
+  },
+  "dependencies": {
+    "core-js": "^3.6.5",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
